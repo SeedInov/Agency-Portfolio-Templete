@@ -57,6 +57,7 @@ const Contact = () => {
             exit="hidden"
             className="flex-1 flex flex-col gap-6 w-full mx-auto"
             onSubmit={submitForm}
+            
           >
             <div className="flex gap-x-6 w-full">
               <input

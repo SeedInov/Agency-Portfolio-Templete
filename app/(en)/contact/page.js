@@ -14,7 +14,7 @@ const Contact = () => {
 
   const submitForm = (event) => {
     event.preventDefault();
-    window.location.href = `mailto:hello@piotrdev.com?subject=${encodeURIComponent(
+    window.location.href = `mailto:contact@seedinov.com?subject=${encodeURIComponent(
       subject
     )}&body=${encodeURIComponent(name)}: ${encodeURIComponent(
       message
@@ -41,7 +41,7 @@ const Contact = () => {
           >
             Let's <span>connect.</span>
           </motion.h2>
-          <motion.div
+          {/* <motion.div
             variants={fadeIn("down", 0.2)}
             initial="hidden"
             animate="show"
@@ -49,7 +49,7 @@ const Contact = () => {
             className="h2 text-center mb-12 flex justify-center"
           >
             <SocialsShort />
-          </motion.div>
+          </motion.div> */}
           <motion.form
             variants={fadeIn("up", 0.4)}
             initial="hidden"

@@ -20,21 +20,33 @@ import { FreeMode, Pagination } from "swiper";
 const serviceData = [
   {
     icon: <RxDesktop />,
-    title: "Web Development",
+    title: "Web Design & Development",
     description:
-      "I use the latest reliable stack (React/Next.js, Tailwind CSS, Node.js, Sanity, Shopify and few more) to build and deploy scalable web applications.",
-  },
-  {
-    icon: <RxCrop />,
-    title: "Data Analysis",
-    description:
-      "Conducting innovative researches,  automating analysis, visualising the data and building comprehensive automated reports.",
+      "I specialize in creating unique, visually appealing websites using the latest technologies (React/Next.js, Tailwind CSS) to make your brand stand out online.",
   },
   {
     icon: <RxPencil2 />,
-    title: "Business Strategy",
+    title: "Logo Design & Branding",
     description:
-      "I design data-driven business strategy, leveraging insights and analytics to craft strategies that fuel growth, optimize operations, and drive sustainable competitive advantage.",
+      "Crafting memorable logos and brand identities that resonate with your audience, ensuring consistency across all touchpoints of your business.",
+  },
+  {
+    icon: <RxReader />,
+    title: "WordPress Development",
+    description:
+      "Building custom WordPress sites tailored to your needs, ensuring easy management, responsive designs, and seamless performance.",
+  },
+  {
+    icon: <RxCrop />,
+    title: "Custom Programming",
+    description:
+      "Offering tailored programming solutions that solve real business problems, whether it's automation, custom software, or API integration.",
+  },
+  {
+    icon: <RxRocket />,
+    title: "SEO & Digital Strategy",
+    description:
+      "Optimizing your website for search engines, driving more traffic, and improving online visibility with a comprehensive digital strategy.",
   },
 ];
 

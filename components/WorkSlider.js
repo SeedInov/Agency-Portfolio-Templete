@@ -19,144 +19,39 @@ const workSlides = {
     {
       images: [
         {
-          title: "PSD Agents in France",
-          path: "/demos/psd_france5.png",
-          link: "https://psdfrance.vercel.app/hexagonview",
-          stack: "Next.js, Mapbox, TailwindCSS",
+          title: "Cardiac Conductor",
+          path: "/demos/cardiac conductor.png",
+          link: "https://herzleiter.soolution.de/",
+          stack: "PHP, Bootstrap, Plesk",
         },
         {
-          title: "Nike Clone",
-          path: "/demos/nikeclone3.png",
-          link: "https://nikeclone-nine.vercel.app/",
-          stack: "Next.js, TailwindCSS",
+          title: "Online Learning Platform",
+          path: "/demos/online learning.png",
+          link: "http://sool.de/",
+          stack: "PHP, Bootstrap, Redux",
         },
 
         {
           title: "Better GPT",
-          path: "/demos/bettergpt.png",
-          link: "https://bettergpt.vabank.dev",
-          stack: "OpenAI, Next.js, TailwindCSS, Firebase, NextAuth",
+          path: "/demos/bad marketing.png",
+          link: "https://bad-marketing.eu/",
+          stack: "Wordpress",
         },
         {
-          title: "Money Transfer Improved",
-          path: "/demos/wuclone2.png",
-          link: "https://wuimprove2.vercel.app/",
-          stack: "Next.js, MongoDB, Zustand, TailwindCSS",
-        },
-      ],
-    },
-    {
-      images: [
-        {
-          title: "Netflix clone",
-          path: "/demos/netflix.png",
-          link: "https://newnetflix-5355c.web.app/",
-          stack: "React, Next.js, TailwindCSS, Firebase",
-        },
-        {
-          title: "Pizza online",
-          path: "/demos/pizzadelivery.png",
-          link: "https://pizzadelivery-five.vercel.app/",
-          stack: "React, Next.js, TailwindCSS",
-        },
-        {
-          title: "AI weather app",
-          path: "/demos/weatherai.png",
-          link: "https://aiweather.vabank.dev/",
-          stack: "React, Next.js, TailwindCSS",
-        },
-        {
-          title: "Developedia",
-          path: "/demos/developedia.png",
-          link: "https://grafbaseproject.vercel.app/",
-          stack: "React, Next.js, TailwindCSS, Sanity.io",
-        },
-      ],
-    },
-
-    {
-      images: [
-        {
-          title: "My Training",
-          path: "/demos/corsetorse.png",
-          link: "https://mytraining.vabank.me/",
-          stack: "OpenAI, Next.js, TailwindCSS, MongoDB, NextAuth",
-        },
-
-        {
-          title: "eCommerce",
-          path: "/demos/electrocommerce.png",
-          link: "https://nextcommerce-one-mu.vercel.app/",
-          stack: "React, Next.js, TailwindCSS, Firebase",
-        },
-        {
-          title: "Amazon clone",
-          path: "/demos/amazonclone.png",
-          link: "https://amazon4-two.vercel.app/",
-          stack: "React, Next.js, TailwindCSS, Firebase, NextAuth",
-        },
-        {
-          title: "Hoobank",
-          path: "/demos/hoobank.png",
-          link: "https://www.piotrmaciejewski.com",
-          stack: "React, Next.js, TailwindCSS",
+          title: "Fewo Solutions",
+          path: "/demos/fewo.png",
+          link: "https://fewo.soolution.de/",
+          stack: "Wordpress, Plesk, MySQL",
         },
       ],
     },
     {
       images: [
         {
-          title: "AMPM Hotel",
-          path: "/demos/ampmhotel.png",
-          link: "https://ampmhotel.vercel.app/",
-          stack: "React, Next.js, TailwindCSS",
-        },
-        {
-          title: "Hoobank",
-          path: "/demos/hoobank.png",
-          link: "https://bankapp-seven.vercel.app/",
-          stack: "React, Next.js, TailwindCSS, Firebase",
-        },
-        {
-          title: "Airbnb clone",
-          path: "/demos/airbnb.png",
-          link: "https://arbb.vercel.app/",
-          stack: "React, Next.js, TailwindCSS, Firebase",
-        },
-        {
-          title: "My previous Portfolio",
-          path: "/demos/prevportfolio.png",
-          link: "https://newportfolionext-ktkr.vercel.app/",
-          stack: "React, Next.js, TailwindCSS, Sanity.io",
-        },
-      ],
-    },
-    {
-      images: [
-        {
-          title: "Profesor Maciejewska",
-          path: "/demos/alina2.png",
-          link: "https://profesoralina.vercel.app/wdrozenia",
-          stack: "Next.js, TailwindCSS, Shadcn",
-        },
-        {
-          title: "Car rental",
-          path: "/demos/carshow.png",
-          link: "https://carshow-kappa.vercel.app/",
-          stack: "React/Next.js, TailwindCSS, RapidApi",
-        },
-        {
-          title: "Payintel",
-          path: "/demos/payintel.png",
-          link: "https://pay-intel.vercel.app/",
-          stack: "React, Next.js, TailwindCSS, Firebase, NextAuth",
-        },
-
-        {
-          title: "Map Inpost",
-          path: "/demos/mapinpost.png",
-          link: "https://inpostfinder.vabank.dev/map",
-          stack: "DeckGL, Next.js, TailwindCSS, Firebase",
+          title: "Wanjek Akademie",
+          path: "/demos/wanjek akademie.png",
+          link: "https://wanjek-akademie.de/",
+          stack: "PHP, Plesk, Redux,",
         },
       ],
     },

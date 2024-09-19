@@ -15,7 +15,7 @@ const Services = () => {
   return (
     <div className="h-full bg-primary/30 py-36 flex items-center overflow-y-scroll no-scrollbar">
       <div className="container mx-auto overflow-y-scroll no-scrollbar">
-        <div className="flex flex-col xl:flex-row gap-x-8">
+        <div className="flex flex-col xl:flex-row gap-x-8 items-center">
           {/* text */}
           <div className="text-center mt-28 md:mt-8 flex xl:w-[30vw] flex-col lg:text-left mb-4 xl:mb-0">
             <motion.h2
@@ -35,9 +35,18 @@ const Services = () => {
               exit="hidden"
               className="mb-4 text-[13px] md:text-[15px] max-w-[400px] mx-auto lg:mx-0"
             >
-              <span className="text-white">Full Stack Development:</span> Harnessing cutting-edge technologies, I design, build, and deploy web applications tailored to scale and resonate with your business needs. <br />
-              
-              <span className="text-white">AI-Driven Business Strategy Consultation:</span> Elevate your business by tapping into the transformative power of AI. Leveraging deep data insights, I offer strategies that refine processes, amplify decision-making prowess, and catalyze innovation. Stay not just aligned, but ahead, in the ever-evolving digital era.
+              <span className="text-white">Web Design & Development:</span> I
+              create sleek, responsive websites that are visually appealing,
+              user-friendly, and SEO-optimized. <br />
+              <span className="text-white">Custom Programming:</span> I deliver
+              tailored web solutions with clean, efficient code, from custom
+              plugins to full applications. <br />
+              <span className="text-white">WordPress Expertise:</span> I build
+              responsive WordPress sites with custom themes and optimized
+              performance. <br />
+              <span className="text-white">Logo Design & Branding:</span> I
+              design logos and cohesive branding that capture your business's
+              essence and appeal to your audience.
             </motion.p>
           </div>
           {/* slider */}

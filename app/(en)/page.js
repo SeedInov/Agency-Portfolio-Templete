@@ -21,8 +21,8 @@ export default function Home() {
             animate="show"
             exit="hidden"
           >
-            Empower Your Business <br /> For The{" "}
-            <span className="text-accent">Next Digital Era</span>
+            Elevate Your Brand <br /> For The{" "}
+            <span className="text-accent">Digital Future</span>
           </motion.h1>
           <motion.p
             variants={fadeIn("down", 0.3)}
@@ -31,10 +31,16 @@ export default function Home() {
             exit="hidden"
             className="text-[13px] md:text-[15px] max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
-            With diverse roles in the corporate giants <span className="text-white"> (Fortune 500)</span> under my belt, I now
-            channel that vast expertise into crafting bespoke digital solutions.
-            Your business deserves the  <span className="text-white">Full Stack Developer</span> who understands the bigger
-            picture.
+            I bring years of hands-on experience in{" "}
+            <span className="text-white">
+              web design, programming, WordPress, logo design,{" "}
+            </span>
+            and <span className="text-white">branding</span>, delivering
+            tailored digital solutions that make businesses stand out. No
+            templates—just thoughtful, creative design that puts your business
+            first. Elevate your brand with a
+            <span className="text-white"> Full Stack Developer</span> who truly
+            understands the unique needs of your business.
           </motion.p>
 
           {/* btn */}
